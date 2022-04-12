@@ -1,4 +1,4 @@
-# air_france_online_campaign_R
+# air_france_online_campaign_R - Team project
 
 This project analyzes different online campaigns from an Air France dataset and provides a resource reallocation recommendation.
 
