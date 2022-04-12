@@ -1,5 +1,8 @@
 # air_france_online_campaign_R - Team project
 
+Team:
+Andres Restrepo, Daniel Puello, Tendai Dube, Lavini Raj, Romi Singh
+
 This project analyzes different online campaigns from an Air France dataset and provides a resource reallocation recommendation.
 
 Process:
